@@ -1,4 +1,4 @@
-def my_func(stroka = ""):
+def my_super-func(stroka = ""):
     count = 0
     for bukva in stroka:
         if bukva.isupper():
@@ -6,7 +6,7 @@ def my_func(stroka = ""):
             count = count + 1
     return count
 
-print(my_func("Проектирование IT-решений"))
+print(my_super_func("Проектирование IT-решений"))
 
 
 l = [-1, 2, 3,5,8,13,7,10]
